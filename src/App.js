@@ -15,14 +15,13 @@ function App() {
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
-  const urlApi = 'https://dummyjson.com/products?limit=10'
+  const urlApi = 'http://localhost:3004/products'
 
   useEffect(() => {
     const fetchData = async () => {
       const response = await axios.get(urlApi)
-      //parser
-      setProducts(response.data.products)
-      console.log(response.data.products)
+      setProducts(response.data)
+      console.log(response.data)
     }
     
     fetchData()
@@ -42,7 +41,7 @@ function App() {
 
   return (
     <Container>
-      <Button variant="primary" onClick={handleShow}>
+      <Button variant="outline-warning" size="lg" onClick={handleShow}>
         <BsCart/>
       </Button>
       <Row>

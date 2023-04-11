@@ -11,6 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 } */
+.offcanvas-start {
+  background-color: #01052f;
+}
 body {
-  background-color: grey;
+  /* background-image: url('https://i.pinimg.com/originals/6e/0f/d6/6e0fd69a36ee8bbf9504f3132c79faff.jpg');
+  background-repeat: no-repeat;
+  background-size: 120%; */
+  background-color: #000218;
+}
+
+.card-text {
+  word-wrap: break-word;
+  /* min-height: 80px; */
+max-height: 70px;
+/* white-space: nowrap; */
+/* overflow: hidden; */
+/* text-overflow: ellipsis; */
+/* max-width: 200px; */
+}
+.price {
+  padding-top: 10px;
+}
+.card {
+  margin-bottom: 20px;
+  /* padding-bottom: 20px; */
 }
