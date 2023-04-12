@@ -8,11 +8,11 @@ const {title, description, price, id, sailed, images} = data;
 
   return (
     <Col>
-    <Card id={id} style={{ width: '18rem', backgroundColor: sailed ? 'orange' : 'black'}}>
+    <Card id={id} style={{ width: '18rem', backgroundColor: sailed ? 'orange' : 'black', color: sailed ? '#393E46' : 'black'}}>
       <Card.Img variant="top" src={images} />
       <Card.Body>
         <Card.Title>{title}</Card.Title>
-        <Card.Text>
+        <Card.Text style={{ color: sailed ? '#393E46' : ''}}>
           {description}
         </Card.Text>
         <Card.Text className='price'>{price} btc</Card.Text>

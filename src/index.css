@@ -22,6 +22,7 @@ body {
 }
 
 .card-text {
+  color: hsl(252, 83%, 26%);
   word-wrap: break-word;
   /* min-height: 80px; */
 max-height: 70px;

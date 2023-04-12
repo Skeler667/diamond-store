@@ -21,7 +21,6 @@ function App() {
     const fetchData = async () => {
       const response = await axios.get(urlApi)
       setProducts(response.data)
-      console.log(response.data)
     }
     
     fetchData()
@@ -37,13 +36,12 @@ function App() {
     setFavorites(newFavorites)
   }
 
-  console.log(favorites)
-
   return (
     <Container>
       <Button variant="outline-warning" size="lg" onClick={handleShow}>
         <BsCart/>
       </Button>
+      
       <Row>
         {products.map((item) => {
          return <CardItem handleFavorites={handleFavorites} key={item.id} data={item}/>
