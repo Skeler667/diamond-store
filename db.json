@@ -2,123 +2,307 @@
     "products": [
     {
     "id": 1,
-    "title": "iPhone 9999999999",
-    "description": "An apple mobile S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched on the vibran",
+    "title": "Vaporesso Xros 3",
+    "description": "Новый корпус пара был разработан специально с учетом новых картриджей.",
     "price": 549,
-    "sailed": true,
-    "discountPercentage": 12.96,
+    "sailed": false,
     "rating": 4.69,
-    "stock": 94,
-    "brand": "Apple",
-    "category": "smartphones",
-    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "brand": "Vaporesso",
+    "category": "pod",
     "images": [
-    "https://img4.goodfon.ru/original/1366x768/9/8c/iabloko-otrazhenie-minimalizm.jpg"
+    "https://enothookah.ru/wp-content/uploads/2023/01/neon-xros-mini-vaporesso-uk-300x300.jpg"
     ]
     },
     {
     "id": 2,
-    "title": "iPhone X",
-    "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+    "title": "VooPoo Argus G ",
+    "description": "Глядя на характеристики, можно заметить, что G версия способна выдать до 25 ватт, тогда как SE выдает до 18.",
     "price": 899,
-    "discountPercentage": 17.94,
     "rating": 4.44,
-    "stock": 34,
-    "brand": "Apple",
-    "category": "smartphones",
-    "thumbnail": "https://catherineasquithgallery.com/uploads/posts/2021-02/1614437694_61-p-predmeti-na-temnom-fone-67.jpg",
+    "brand": "VooPoo",
+    "category": "pod",
     "images": [
-    "https://img1.goodfon.ru/original/1366x768/f/79/patrony-lampa-makro.jpg"
+    "https://avatars.mds.yandex.net/i?id=e46698019d5186634a7ba6d81764e30f763e5d6f-9214194-images-thumbs&n=13"
     ]
     },
     {
     "id": 3,
-    "title": "Samsung Universe 9",
-    "description": "Samsung's new S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched on the vibrant touchscreen.",
+    "title": "Smoant Charon baby",
+    "description": "Smoant Charon Baby Pod Kit, изготовленный из CPR и оснащенный интеллектуальным чипом Ant.",
     "price": 1249,
-    "discountPercentage": 15.46,
     "rating": 4.09,
-    "stock": 36,
-    "brand": "Samsung",
-    "category": "smartphones",
-    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "brand": "Smoant",
+    "category": "pod",
     "images": [
-    "https://img1.goodfon.com/original/1366x768/b/6d/stakan-voda-pit.jpg"
+    "https://avatars.mds.yandex.net/get-sprav-products/4472294/2a0000017d2a008b220ab1600f33caa693c0/M_height"
     ]
     },
     {
     "id": 4,
-    "title": "OPPOF19",
-    "description": "OPPO F19 S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched on the vibrant touchscreen.",
-    "price": 280,
-    "discountPercentage": 17.91,
+    "title": "Suorin Ace",
+    "description": "Suorin ACE Pod Kit - компактная POD система от компании Suorin.",
+    "price": 1280,
     "rating": 4.3,
-    "stock": 123,
-    "brand": "OPPO",
-    "category": "smartphones",
-    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "brand": "Suorin",
+    "category": "pod",
     "images": [
-    "https://images.wallpaperscraft.ru/image/single/svechi_dym_ogon_73514_1366x768.jpg"
+    "https://parovkus.ru/published/publicdata/EPOKUR90SHOP/attachments/SC/products_pictures/Suorin%20ACE.jpg"
     ]
     },
     {
     "id": 5,
-    "title": "Huawei P30",
-    "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+    "title": "Vaporesso Osmall",
+    "description": "Vaporesso Osmall — одна из популярных электронных сигарет для тех, кто хочет бросить курить обычные сигареты.",
     "price": 499,
-    "discountPercentage": 10.58,
     "rating": 4.09,
-    "stock": 32,
-    "brand": "Huawei",
-    "category": "smartphones",
-    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "brand": "Vaporesso",
+    "category": "pod",
     "images": [
-    "https://img1.goodfon.com/original/1366x768/3/be/chernyy-fon-bokal-voda-kapli.jpg"
+    "https://static.regmarkets.ru/listpreview/images3/86/06/86063f58af668e78fae42bf7f7cb8f4c.jpg"
     ]
     },
     {
     "id": 6,
-    "title": "MacBook Pro",
-    "description": "MacBook Pro 2021 S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched on the vibrant touchscreen.",
+    "title": "Aspire Brusko minican plus",
+    "description": "Aspire Minican Plus — это электронная сигарета с перезаправляемыми картриджами.",
     "price": 1749,
-    "discountPercentage": 11.02,
     "rating": 4.57,
-    "stock": 83,
-    "brand": "Apple",
-    "category": "laptops",
-    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "brand": "Aspire",
+    "category": "pod",
     "images": [
-    "https://res.allmacwallpaper.com/get/MacBook-Air-11-inch-wallpapers/Rubik's-cube-1366x768/5211-3.jpg"
+    "https://cdn1.ozone.ru/s3/multimedia-a/6099735094.jpg"
     ]
     },
     {
     "id": 7,
-    "title": "Samsung Galaxy Book",
-    "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched on the vibrant touchscreen.",
+    "title": "Vaporesso Barr",
+    "description": "Опыт вейпинга начального уровня - это все, что требуется для овладения Vaporesso Barr.",
     "price": 1499,
-    "discountPercentage": 4.15,
     "rating": 4.25,
-    "stock": 50,
-    "brand": "Samsung",
-    "category": "laptops",
-    "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+    "brand": "Vaporesso",
+    "category": "pod",
     "images": [
-    "https://img2.goodfon.ru/original/1366x768/b/4f/kreativ-samolet-ogon-spichka.jpg"
+    "https://static.insales-cdn.com/images/products/1/6805/492575381/vaporesso-barr-red.jpeg"
     ]
     },
     {
     "id": 8,
-    "title": "Microsoft Surface Laptop 4",
-    "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+    "title": "Smok novo 2",
+    "description": "Novo 2 имеет переработанный чувствительный датчик затяжки, чтобы вы могли наслаждаться процессом парения.",
     "price": 1499,
-    "discountPercentage": 10.23,
     "rating": 4.43,
-    "stock": 68,
-    "brand": "Microsoft Surface",
-    "category": "laptops",
-    "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+    "brand": "Smok",
+    "category": "pod",
     "images": [
-    "https://img2.goodfon.ru/original/1366x768/d/dd/noch-fonari-svet.jpg"
+    "https://static.insales-cdn.com/images/products/1/2859/298134315/Purple_Stabilizing_Wood.jpg"
+    ]
+    },
+    {
+    "id": 1.1,
+    "title": "Hqd Original Salt",
+    "description": "Жидкость Hqd Original Salt - Вишня",
+    "price": 549,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "HQD",
+    "category": "fluid",
+    "images": [
+    "https://drip-tip.ru/wa-data/public/shop/products/97/07/30797/images/24294/Hqd_Original_Salt_-_Vishnya.300x0.jpg"
+    ]
+    },
+    {
+    "id": 1.2,
+    "title": "Maxwells Salt",
+    "description": "Жидкость Maxwells Salt Original - Black",
+    "price": 550,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Maxwells",
+    "category": "fluid",
+    "images": [
+    "https://drip-tip.ru/wa-data/public/shop/products/08/55/5508/images/17571/Maxwells_SALT_Black.jpg.970.jpg"
+    ]
+    },
+    {
+    "id": 1.3,
+    "title": "Platinum Salt - Fresh",
+    "description": "Микс из манго и персика с холодком",
+    "price": 549,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Platinum Salt",
+    "category": "fluid",
+    "images": [
+    "https://driptip.ru/wa-data/public/shop/products/79/65/26579/images/18249/Platinum_Salt_Java.970.jpg"
+    ]
+    },
+    {
+    "id": 1.4,
+    "title": "Jazz Berries Salt - Blackberry Blues",
+    "description": "Приятный вкус сладкой ежевики",
+    "price": 449,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Jazz Berries Salt",
+    "category": "fluid",
+    "images": [
+    "https://driptip.ru/wa-data/public/shop/products/49/68/26849/images/18613/jazz_berries_BLACKBERRY_BLUES.970.jpg"
+    ]
+    },
+    {
+    "id": 1.5,
+    "title": "BOSHKI Salt Сахарные",
+    "description": "Жидкость BOSHKI Salt Сахарные (Малиновое варенье с хвоей)",
+    "price": 749,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Boshki Salt",
+    "category": "fluid",
+    "images": [
+    "https://smokyland.shop/image/cache/catalog/Vape/Boshki/kupit-jidkost-salt-boshki-sugar-300x300.jpg"
+    ]
+    },
+    {
+    "id": 1.6,
+    "title": "Морс Мороз Salt",
+    "description": "Жидкость Морс Мороз Salt Смородина Барбарис",
+    "price": 449,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Морс Salt",
+    "category": "fluid",
+    "images": [
+    "https://file.wikkeo.com/assets/images/thumbnails/uUv8ExfGa0Sf.jpg"
+    ]
+    },
+    {
+    "id": 1.7,
+    "title": "Мишка Salt",
+    "description": "Жидкость Мишка Salt Дыня арбуз огурец",
+    "price": 399,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Мишка Salt",
+    "category": "fluid",
+    "images": [
+    "https://smokyland.shop/image/cache/catalog/Vape/Mishka/kupit-jidkost-mishka-melon-watermelon-cucumber-300x300.jpg"
+    ]
+    },
+    {
+    "id": 1.8,
+    "title": "Mahorka salt",
+    "description": "Жидкость Mahorka salt double tx Royal",
+    "price": 799,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Mahorka salt",
+    "category": "fluid",
+    "images": [
+    "https://alibaba-shop.ru/images/products/20221028/2/mahorka_solt_royal.webp"
+    ]
+    },
+    {
+    "id": 2.1,
+    "title": "HQD Cuvie Plus",
+    "description": "HQD Cuvie Plus Манго и гуава",
+    "price": 799,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "HQD",
+    "category": "disposable",
+    "images": [
+    "https://nvs-vrn.ru/wp-content/uploads/2023/03/ice-black-currant-1000x1000-1.jpg"
+    ]
+    },
+    {
+    "id": 2.2,
+    "title": "Elf Bar 4000 - Зеленое Яблоко",
+    "description": "Вкус кислого зелёного яблока",
+    "price": 1399,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Elf Bar",
+    "category": "disposable",
+    "images": [
+    "https://drip-tip.ru/wa-data/public/shop/products/26/12/31226/images/24897/Elf_Bar_4000_-_Zelenoe_Yabloko.970.jpg"
+    ]
+    },
+    {
+    "id": 2.3,
+    "title": "Ejoy S",
+    "description": "Ejoy S 600 Затяжек - Арбуз",
+    "price": 799,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Ejoy S",
+    "category": "disposable",
+    "images": [
+    "https://drip-tip.ru/wa-data/public/shop/products/99/22/32299/images/26087/ejoy_s_lush_ice.970.jpg"
+    ]
+    },
+    {
+    "id": 2.4,
+    "title": "Plonq 2.0 - Виноград",
+    "description": "Вкус винограда",
+    "price": 680,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Plonq",
+    "category": "disposable",
+    "images": [
+    "https://drip-tip.ru/wa-data/public/shop/products/79/23/32379/images/26214/plonq_2.0_vinograd.970.jpg"
+    ]
+    },
+    {
+    "id": 2.5,
+    "title": "Elf Bar Lux 1500",
+    "description": "Кофейный табак - Coffee tabacco",
+    "price": 1200,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "Elf Bar",
+    "category": "disposable",
+    "images": [
+    "https://first-smoky.ru/upload/resize_cache/iblock/235/300_300_1/2350493a1d04fcbed1a3399be32ce79b.jpg"
+    ]
+    },
+    {
+    "id": 2.6,
+    "title": "HQD Cuvie",
+    "description": "HQD Cuvie Апельсин - Orange Soda",
+    "price": 400,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "HQD",
+    "category": "disposable",
+    "images": [
+    "https://static.insales-cdn.com/r/_ShmDWZWEfc/rs:fit:360:360:1/plain/images/products/1/8103/546807719/large_HQD_Cuvie_300__ORG__%D0%9A%D0%BB%D1%83%D0%B1%D0%BD%D0%B8%D0%BA%D0%B0.jpg"
+    ]
+    },
+    {
+    "id": 2.7,
+    "title": "HQD Mega",
+    "description": "Клубничный милкшейк - Unicorn Milk",
+    "price": 749,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "HQD",
+    "category": "disposable",
+    "images": [
+    "https://first-smoky.ru/upload/resize_cache/iblock/272/300_300_1/272499ea084e6ba3993445c9dd4eb241.jpg"
+    ]
+    },
+    {
+    "id": 2.8,
+    "title": "HQD TITAN",
+    "description": "7000 Кола - Cola",
+    "price": 1799,
+    "sailed": false,
+    "rating": 4.69,
+    "brand": "HQD",
+    "category": "disposable",
+    "images": [
+    "https://file.wikkeo.com/assets/images/thumbnails/SEHrFybf9XcY.jpg"
     ]
     }
     ]
