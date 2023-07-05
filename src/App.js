@@ -5,7 +5,6 @@ import axios from 'axios';
 import { useState, useEffect } from 'react';
 import { Button, ButtonGroup, Dropdown, Navbar } from 'react-bootstrap';
 import Stack from 'react-bootstrap/Stack';
-import Modal from 'react-bootstrap/Modal';
 import { BsCart } from "react-icons/bs";
 import Cart from './components/Cart';
 
@@ -13,6 +12,7 @@ function App() {
   const [products, setProducts] = useState([])
   const [favorites, setFavorites] = useState([])
   const [show, setShow] = useState(false);
+  const [cartCount, setCartCount] = useState(0)
 
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
@@ -29,14 +29,16 @@ function App() {
   }, [])
   // https://api.escuelajs.co/api/v1/products?offset=0&limit=8
 
+
   const handleFavorites = (item) => {
-    console.log(item)
     setFavorites([...favorites, item])
+    setCartCount(cartCount + 1)
   }
 
   const handleRemoveFavorites = (id) => {
     const newFavorites = favorites.filter((item) => item.id !== id)
     setFavorites(newFavorites)
+    setCartCount(cartCount - 1)
   }
 
   const handleFiltrationPods = () => {
@@ -77,13 +79,14 @@ function App() {
     fetchData()
   }
 
+
   return (
     <Container>
       <Navbar className='navbar bg-black' sticky="top">
       <Stack direction="horizontal" gap={2}>
       <div className='navbar__cart m-1 p-2'> 
       <Button variant="outline-warning" size="md" onClick={handleShow}>
-      <p> Корзина <BsCart/></p>
+      <p> Корзина <BsCart/> <span className='shopCount'>{`${cartCount}`}</span> </p>
       </Button>
       </div>
       <div className='navbar__filtration m-2 p-2 ms-auto'>
@@ -102,6 +105,7 @@ function App() {
 
       <Row>
         {products.map((item) => {
+          console.log(item.id)
          return <CardItem handleFavorites={handleFavorites} key={item.id} data={item}/>
         })}
       </Row>

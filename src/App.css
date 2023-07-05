@@ -3,9 +3,19 @@
 }
 
 .dropdown__el {
-  color: white;
+  color: rgb(255, 255, 255);
 }
-
+.navbar__cart {
+}
 .navbar p {
   margin: 0;
+}
+
+.shopCount {
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  padding-left: 10px;
+  border-left: 1px solid rgba(255, 204, 0, 0.955);
 }
